@@ -1,4 +1,4 @@
-package seminar3.Task3;
+package seminar3.Task3Homework;
 
 public enum GameStatus {
 

@@ -1,4 +1,4 @@
-package seminar3.Task3;
+package seminar3.Task3Homework;
 
 import java.util.Objects;
 import java.util.Scanner;

@@ -1,6 +1,4 @@
-package seminar3.Task3;
-
-import com.sun.jdi.ClassType;
+package seminar3.Task3Homework;
 
 public interface Game {
     void start(Integer sizeWord, Integer maxTry);

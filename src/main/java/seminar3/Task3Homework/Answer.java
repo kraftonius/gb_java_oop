@@ -1,4 +1,4 @@
-package seminar3.Task3;
+package seminar3.Task3Homework;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
